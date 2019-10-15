@@ -31,7 +31,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/WM2000/Display/Display.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MyAdventure.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WM2000/Keyboard/Keyboard.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,7 +99,14 @@
       <workItem from="1568102725194" duration="3703000" />
       <workItem from="1569308048483" duration="753000" />
       <workItem from="1569308817415" duration="5191000" />
-      <workItem from="1569915548191" duration="2093000" />
+      <workItem from="1569915548191" duration="2098000" />
+      <workItem from="1570903917204" duration="1466000" />
+      <workItem from="1570905434417" duration="61000" />
+      <workItem from="1570971841858" duration="13814000" />
+      <workItem from="1571074964306" duration="7244000" />
+      <workItem from="1571084389530" duration="1557000" />
+      <workItem from="1571121550868" duration="8390000" />
+      <workItem from="1571129966735" duration="195000" />
     </task>
     <servers />
   </component>
